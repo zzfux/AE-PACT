@@ -1,3 +1,7 @@
+To get the AE, please clone the following git repo;
+git clone https://github.com/zzfux/AE-PACT.git
+
+
 0. Setup environment for evaluation
 The required environment: conda and dependent packages
 -i) Create a conda virtual environment and activate it
